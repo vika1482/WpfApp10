@@ -1,0 +1,118 @@
+﻿<Page x:Name="LoadCo" x:Class="WpfApp10.ListAgent"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp10"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ListAgent" >
+
+    <Grid>
+        <Grid.Resources>
+            <DataTemplate x:Key="MyCol" >
+                <Border BorderThickness="1" BorderBrush="Black" Margin="5,5,5,5">
+                    <StackPanel Width="auto" Height="auto" Orientation="Horizontal" >
+                        <Image Source="img.png" Width="120" Height="auto" HorizontalAlignment="Right"></Image>
+                        <StackPanel Orientation="Vertical" Height="auto">
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Text="{Binding Path=AgentType.Title}" Width="auto" HorizontalAlignment="Center"></TextBlock>
+                                <TextBlock Text=" | " Width="auto" HorizontalAlignment="Center"></TextBlock>
+                                <TextBlock Text="{Binding Title}" Width="auto" HorizontalAlignment="Center"></TextBlock>
+                            </StackPanel>
+                            <TextBlock Text="{Binding Phone}" Width="100" HorizontalAlignment="Center"></TextBlock>
+                            <TextBlock Text="{Binding sale}" x:Name="sale" Width="100" HorizontalAlignment="Center"></TextBlock>
+                            <TextBlock Text="{Binding Priority}" Width="100" HorizontalAlignment="Center"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Margin="50 0 0 0" Orientation="Horizontal">
+                            <TextBlock Text="{Binding percent}"  HorizontalAlignment="Right"></TextBlock>
+                            <TextBlock Text="%" HorizontalAlignment="Right"></TextBlock>
+                        </StackPanel>
+                        
+                    </StackPanel>
+                </Border>
+            </DataTemplate>
+
+        </Grid.Resources>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="8*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Column="0" TextChanged="TextBox_TextChanged"></TextBox>
+            <ComboBox Grid.Column="1" VerticalAlignment="Center" SelectionChanged="ComboBox_SelectionChanged" Text="Сортировка">
+                
+                <ComboBoxItem Tag="0" x:Name="cmbSort" >
+                    <TextBlock  Text="Без сортировки" ></TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem Tag="1">
+                    <TextBlock Text="По возрастанию названия" ></TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem  Tag="2">
+                    <TextBlock Text="По убыванию названия"></TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem  Tag="3">
+                    <TextBlock Text="По возрастанию приоритета"></TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem  Tag="4">
+                    <TextBlock Text="По убыванию приоритета"></TextBlock>
+                </ComboBoxItem>
+
+            </ComboBox>
+            <ComboBox x:Name="TypeCmb"  Grid.Column="2"  Width="auto" HorizontalAlignment="Left" VerticalAlignment="Center" ItemsSource="{Binding}" SelectionChanged="TypeCmb_SelectionChanged">
+                
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Title}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+                
+            </ComboBox>
+
+
+        </Grid>
+        
+        <DataGrid AutoGenerateColumns="False" x:Name="agentGrid" Grid.Row="1" IsReadOnly="True" GridLinesVisibility="None" MouseDown="agentGrid_MouseDown" LoadingRow="agentGrid_LoadingRow"> 
+            <DataGrid.Columns>
+                <DataGridTemplateColumn   CellTemplate="{StaticResource MyCol}" Width="*">
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel x:Name="paging" Grid.Row="2" Orientation="Horizontal"
+            HorizontalAlignment="Center">
+            <StackPanel Grid.Column="0" Orientation="Horizontal" HorizontalAlignment="Stretch" Margin="0 0 20 0">
+                <TextBlock Text="Всего: " HorizontalAlignment="Left"  VerticalAlignment="Center"></TextBlock>
+                <TextBlock x:Name="full"  Text="121" HorizontalAlignment="Right"  VerticalAlignment="Center"></TextBlock>
+            </StackPanel>
+            <StackPanel  Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Stretch" Width="auto">
+                <Button x:Name="back" Content="B" Click="back_Click" IsEnabled="False" Height="30" Width="20"></Button>
+
+                <StackPanel x:Name="pagin" Grid.Column="1" Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Stretch" Width="auto" >
+                </StackPanel>
+                <Button x:Name="forward" Content="F" Click="forward_Click" Height="30" Width="20"></Button>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="updateButton" Height="auto" Width="auto" Grid.Column="0"
+                Content="Изменить приоритет" Click="updateButton_Click"/>
+            <Button x:Name="addButton" Height="auto" Width="auto" Grid.Column="2"
+                Content="Добавить" Click="addButton_Click" />
+        </Grid>
+    </Grid>
+</Page>

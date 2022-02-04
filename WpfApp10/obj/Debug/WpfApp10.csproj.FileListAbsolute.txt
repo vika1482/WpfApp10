@@ -1,0 +1,85 @@
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\EntityFramework.dll
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\EntityFramework.xml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\ListAgent.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10_Content.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\ListAgent.baml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CopyComplete
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\AddAgent.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\AddAgent.baml
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\PriorityWindow.g.cs
+C:\Users\temch\Desktop\Шарага\4 курс\Инструментальное программирование\WpfApp10\WpfApp10\obj\Debug\PriorityWindow.baml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\EntityFramework.dll
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\EntityFramework.xml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\AddAgent.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\ListAgent.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\PriorityWindow.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\App.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10_Content.g.cs
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\AddAgent.baml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\ListAgent.baml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\PriorityWindow.baml
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.csproj.CopyComplete
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\proto\Downloads\AgentsApp-master\WpfApp10\obj\Debug\WpfApp10.pdb
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\EntityFramework.dll
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\EntityFramework.xml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\AddAgent.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\ListAgent.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\PriorityWindow.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\App.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10_Content.g.cs
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\AddAgent.baml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\ListAgent.baml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\PriorityWindow.baml
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.csproj.CopyComplete
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\Vikich\Desktop\дз\Инструментальные Средства разработки програмного обеспечения\январь февраль\WpfApp10-main\WpfApp10\obj\Debug\WpfApp10.pdb
